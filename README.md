@@ -1,6 +1,37 @@
 # Vue + vite + prettier + tailwindcss
 
-## Setup steps:
+## How to use
+
+The easiest is to click on "Use this template" on the top right of this page.
+
+### or Manual cloning
+
+ - Clone this project
+
+```
+// https
+git clone https://github.com/cedric25/vue-starter.git my-vue-app
+// ssh
+git clone git@github.com:cedric25/vue-starter.git my-vue-app
+cd my-vue-app
+nvm use / fnm use / etc.
+npm i
+```
+
+ - Remove git history and create your own:
+```
+rm -rf .git
+git init
+git add .
+git commit -m ":zap: Init project"
+```
+
+ - Run app
+```
+npm run dev  
+```
+
+## Setup steps
 
 ### Node version
 
