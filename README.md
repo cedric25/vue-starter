@@ -1,4 +1,4 @@
-# Vue 3 + Vite + prettier + tailwindcss
+# Vue + vite + prettier + tailwindcss
 
 ## Setup steps:
 
